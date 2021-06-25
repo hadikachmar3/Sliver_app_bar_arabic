@@ -1,16 +1,6 @@
 # sliver_app_bar
 
-A new Flutter project.
+# Sliver appBar
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Watch on youtube
+[![Sliver app bar](https://user-images.githubusercontent.com/38382273/123428888-f6787200-d5ce-11eb-8588-f0b7b68e68d0.png)](https://youtu.be/0lxLjYDO3p0 "Sliver app bar - Click to Watch!")
